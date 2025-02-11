@@ -56,7 +56,7 @@ Setup Instructions
 
 1. Clone the Repository
 
- git clone https://github.com/your-repository/mbbs-abroad-landing.git
+ git clone (https://github.com/mohitsbh/MBBS-Abroad.git)
  cd mbbs-abroad-landing
 
 2. Open in a Code Editor
@@ -96,13 +96,5 @@ Or use Live Server in VS Code.
 
 7. Deploy the Project
 
-GitHub Pages: Upload the project to GitHub and enable GitHub Pages.
 
-Netlify/Vercel: Drag and drop files into the hosting service.
-
-Firebase Hosting: Deploy using Firebase CLI.
-
-Contact
-
-For any issues, feel free to reach out to support@mbbsabroad.com.
 
