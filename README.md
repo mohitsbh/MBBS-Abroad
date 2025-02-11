@@ -97,4 +97,5 @@ Or use Live Server in VS Code.
 7. Deploy the Project
 
 
-
+https://mbbs-abroad-rk15.vercel.app/
+https://mbbsabroad.netlify.app/
